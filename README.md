@@ -2,8 +2,11 @@
 This application is a api to connects to Storage#k (in my profile) storage the images and email registered in a data base.
 
 this is the url:
+
 get api/file/
+
 get api/file/email@mail.com
+
 Delete api/file/id
 
 ## About Laravel
